@@ -84,6 +84,7 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+.idea
 env/
 venv/
 ENV/
@@ -102,4 +103,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-/sogouNews_FlyAI/data/
+/nlp/sogouNews_FlyAI/data/
