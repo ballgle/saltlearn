@@ -1,0 +1,7 @@
+pandas
+beautifulsoup4
+tensorflow
+keras
+flyai
+numpy
+jieba
